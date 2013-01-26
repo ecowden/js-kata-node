@@ -4,6 +4,8 @@ files = [
     JASMINE,
     JASMINE_ADAPTER,
     'components/angular/angular.js',
+    'components/angular/angular-mocks.js',
+    'components/sugar/release/sugar.min.js',
     'src/**/*.js',
     'test/**/*.js'
 ];
