@@ -3,9 +3,11 @@
 
     describe("helloWorld", function () {
 
-        it("should exist", function () {
-            expect(helloWorld).toBeDefined();
-        });
+        beforeEach(module('kata.helloWorld'));
+
+        it("should greet the named person", inject(function (greet) {
+            expect(greet("World")).toBe("Hello World!");
+        }));
 
     });
 
