@@ -11,7 +11,7 @@ Sugar.js is included for convenience.
 This project is designed to be used with IntelliJ IDEA, though there's no reason that it shouldn't work with other
 editors as well.
 
-### Before starting:
+### Before starting
  1. Install [Node.js](http://nodejs.org/)
  1. Install Testacular
 
@@ -21,7 +21,7 @@ editors as well.
 
         npm install -g bower
 
-### Set up the project:
+### Set up the project
  1. Get the project.  The simplest way is to download the zip archive.  Advanced users are free to fork the
     repository.
  1. Open it in your IDE of choice.
@@ -29,7 +29,7 @@ editors as well.
 
         bower install
 
-### To start testing:
+### To start testing
 
 One you start the Testacular runner, it should watch for changes and continuously run appropriate tests.
 
