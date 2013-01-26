@@ -30,7 +30,10 @@ editors as well.
         bower install
 
 ### To start testing:
- * For IntelliJ IDEA users, Start the "Testacular Start" run configuration
+
+One you start the Testacular runner, it should watch for changes and continuously run appropriate tests.
+
+ * For IntelliJ IDEA users, run the "Testacular Start" run configuration.
  * Alternately, run:
 
         testacular start
