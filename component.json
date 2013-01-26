@@ -1,0 +1,7 @@
+{
+    "name": "js-kata-angular",
+    "version": "0.1",
+    "dependencies": {
+        "angular": "http://code.angularjs.org/1.0.4/angular-1.0.4.zip"
+    }
+}
