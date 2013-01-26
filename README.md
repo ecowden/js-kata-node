@@ -6,7 +6,7 @@ The goal of this project is to get you writing code as quickly as possible.
 This is a pretty simple setup to do test first development with JavaScript using the Jasmine test framework and
 the Testacular test runner.
 
-SugarJS is included for convenience.
+Sugar.js is included for convenience.
 
 This project is designed to be used with IntelliJ IDEA, though there's no reason that it shouldn't work with other
 editors as well.
@@ -30,8 +30,8 @@ editors as well.
         bower install
 
 ### To start testing:
- *. For IntelliJ IDEA users, Start the "Testacular Start" run configuration
- *. Alternately, run:
+ * For IntelliJ IDEA users, Start the "Testacular Start" run configuration
+ * Alternately, run:
 
         testacular start
 
