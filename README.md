@@ -1,5 +1,8 @@
 JavaScript Kata Template Project
 ================================
+Based on Node.js
+
+WORK IN PROGRESS
 
 The goal of this project is to get you writing code as quickly as possible.
 
