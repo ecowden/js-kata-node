@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/js-kata-angular.iml" filepath="$PROJECT_DIR$/js-kata-angular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/js-kata-node.iml" filepath="$PROJECT_DIR$/js-kata-node.iml" />
     </modules>
   </component>
 </project>
